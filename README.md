@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
 <h3 align="left">My portfolio:</h3>
-https://ombre.tech
+https://ombre.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
